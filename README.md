@@ -2,7 +2,7 @@
 
 Photos, clips and animations of the [TBC Test Suite](https://github.com/ArclightAutomata/tbc_test_suite) MiSTer core on a CRT, plus the scripts that made them. The core's README hotlinks the animations in `anim/`; everything else is the source material, kept here so the README images can be re-picked or rebuilt.
 
-Captured 2026-11-06 from core build 424679d: MiSTer Pi → MikeS11 adapter (S-Video) → Pelco PMCS15A CRT monitor, filmed with the camera shutter at 1/30 s.
+Captured 2026-11-06 from core build v261105 (the version in the OSD footer): MiSTer Pi → MikeS11 adapter (S-Video) → Pelco PMCS15A CRT monitor, filmed with the camera shutter at 1/30 s.
 
 | Folder | Contents |
 |---|---|
